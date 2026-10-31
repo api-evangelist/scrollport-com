@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-scrollport-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://scrollport.com/
+Scrollport is a pay‑per‑use catalog of API tools for AI agents: one connection and one prepaid wallet give an agent verified search, scraping, enrichment, social data and media tools without separate provider accounts, API keys or subscriptions. Optional connected‑app tools use accounts the customer already owns and separately authorises. Scrollport is not the CSS term “scrollport”, which describes the visible area of a scroll container.
+
+**Areas:** AI Agents · API Tools · Pay‑per‑use · Search · Scraping
+
+## scrollport-com on APIs.io
+
+Everything profiled for scrollport-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scrollport-com/](https://apis.io/providers/scrollport-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Scrollport API](https://apis.io/apis/scrollport-com/scrollport-api/) — Scrollport provides a pay‑per‑use catalog of API tools for AI agents, offering search, scraping, enrichment, and media capabilities via a unified interface.
+- [scrollport-com API](https://apis.io/apis/scrollport-com/scrollport-com-api/) — scrollport-com API as documented publicly: 11 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostV1AuthInviteRedeemRequest](https://apis.io/schemas/scrollport-com/scrollport-com-post-v1-auth-invite-redeem-request/)
+- [PostV1AuthInviteRedeemResponse](https://apis.io/schemas/scrollport-com/scrollport-com-post-v1-auth-invite-redeem-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Scrollport Com Context](https://apis.io/jsonld/scrollport-com/scrollport-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [scrollport-com API Rules](https://apis.io/rules/scrollport-com/scrollport-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Scrollport Com Authentication](https://apis.io/security/scrollport-com/scrollport-com-authentication/)
+- [Scrollport Com Domain Security](https://apis.io/security/scrollport-com/scrollport-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Scrollport Com Scopes](https://apis.io/scopes/scrollport-com/scrollport-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scrollport.com/)
+- [Documentation](https://scrollport.com/docs)
+- [Getting started](https://scrollport.com/docs/quickstart)
+- [API reference](https://scrollport.com/docs)
+- [Sign up](https://scrollport.com/start)
+- [Support](https://scrollport.com/support)
+- [Terms of service](https://scrollport.com/terms)
+- [Privacy policy](https://scrollport.com/privacy)
+- [GitHub](https://github.com/Scrollport)
+
+## API Evangelist rating
+
+**Kin Score 47.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 34.2 |
+
+**Agent readiness 42.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scrollport-com/](https://apis.io/providers/scrollport-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for scrollport-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scrollport-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
